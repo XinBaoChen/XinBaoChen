@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm XinBao Chen</h1>
-<h3 align="center">A passionate frontend developer / Web Developer</h3>
+<h3 align="center">A full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="http://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinbaochen&label=Profile%20views&color=0e75b6&style=flat" alt="xinbaochen" /> </p>
@@ -9,19 +9,17 @@
 
 - 🌱 I’m currently learning **All the Fronted Development!**
 
-- 👯 I’m looking to collaborate on **....**
+- 👯 I’m looking for  **Internship**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Learning fronted framework**
 
 - 📝 Check out my LinkedIn [www.linkedin.com/in/xinbao-chen](www.linkedin.com/in/xinbao-chen)
 
-- 💬 Ask me about **Python! Or anything interesting!**
+- 💬 Ask me about **Web development Or anything interesting!**
 
 - 📫 How to reach me **chensteven321@gmail.com**
 
-- 📄Resources [https://roadmap.sh/](https://roadmap.sh/)
-
-- ⚡ Fun fact **I think I am Funny.....**
+- ⚡ Fun fact **I love to play sports :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
