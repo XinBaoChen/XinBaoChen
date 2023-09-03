@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinbaochen&label=Profile%20views&color=0e75b6&style=flat" alt="xinbaochen" /> </p>
 
-- 🔭 I’m currently working on **Learning about TypeScript and C++**
+- 🔭 I’m currently working on **Learning about NextJs and C++**
 
-- 🌱 I’m currently learning **All the Fronted Development!**
+- 🌱 I’m currently learning **About ReactJS, NextJS, NodeJS**
 
-- 👯 I’m looking to collaborate on **....**
+- 👯 I’m looking to collaborate on **Ai Technology**
 
 - 🤝 I’m looking for help with **Web Development**
 
@@ -21,7 +21,7 @@
 
 - 📄Resources [https://roadmap.sh/](https://roadmap.sh/)
 
-- ⚡ Fun fact **I think I am Funny.....**
+- ⚡ Fun fact **I love to play sports :).....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
